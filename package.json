@@ -42,7 +42,13 @@
   "keywords": [
     "bond-scraper"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "node-fetch": "2.3.0",
+    "qs": "6.6.0",
+    "request": "2.88.0",
+    "stringify-object": "3.3.0",
+    "tabletojson": "1.0.4"
+  },
   "devDependencies": {
     "@babel/cli": "7.2.3",
     "@babel/core": "7.3.4",
